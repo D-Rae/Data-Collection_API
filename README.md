@@ -1,2 +1,2 @@
-# Data-Collection_API
-Data collection using API lab.
+# Data Science Capstone
+These labs contribute to the final project for the Applied Data Science Capstone course.
